@@ -17,3 +17,8 @@ Pujan Soni - pujansoni098@gmail.com
 - Icons: Font Awesome 6.0
 - No Frameworks: Pure vanilla implementation
 
+Way to operate the project :
+
+- Extract the Repository
+- install the modules "npm i"
+- run the project "npm start"
