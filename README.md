@@ -2,6 +2,7 @@ Skill Swap Platform :
 Develop a Skill Swap Platform — a mini application that enables users to list their skills and
 request others in return
 
+Team Name : Team_Dexter
 Parshva Shah - shahparshva2005@gmail.com
 Sneh Brahmbhatt - 12302080701123@gmail.com
 Dhyey Sutariya - optimisticdhyey@gmail.com
