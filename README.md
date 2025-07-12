@@ -2,6 +2,8 @@ Skill Swap Platform :
 Develop a Skill Swap Platform — a mini application that enables users to list their skills and
 request others in return
 
+Video Link : https://drive.google.com/drive/folders/1BNHTTV5_1sFnVqkUhhYsK7NqWz3ikqtz
+
 Team Name : Team_Dexter
 
 Parshva Shah - shahparshva2005@gmail.com
